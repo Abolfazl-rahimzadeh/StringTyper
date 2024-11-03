@@ -1,0 +1,14 @@
+E:\Programing\C# exersices\system_info\typper\bin\Debug\net8.0\typper.exe
+E:\Programing\C# exersices\system_info\typper\bin\Debug\net8.0\typper.deps.json
+E:\Programing\C# exersices\system_info\typper\bin\Debug\net8.0\typper.runtimeconfig.json
+E:\Programing\C# exersices\system_info\typper\bin\Debug\net8.0\typper.dll
+E:\Programing\C# exersices\system_info\typper\bin\Debug\net8.0\typper.pdb
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\typper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\typper.AssemblyInfoInputs.cache
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\typper.AssemblyInfo.cs
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\typper.csproj.CoreCompileInputs.cache
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\typper.dll
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\refint\typper.dll
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\typper.pdb
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\typper.genruntimeconfig.cache
+E:\Programing\C# exersices\system_info\typper\obj\Debug\net8.0\ref\typper.dll
